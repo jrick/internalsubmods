@@ -1,5 +1,5 @@
 package b
 
-import "github.com/jrick/internalsubmods/internal/a"
+import "github.com/jrick/internalsubmods/b/internal/b"
 
-var V = a.V
+var V = b.V
