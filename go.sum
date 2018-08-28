@@ -1,0 +1,4 @@
+github.com/jrick/internalsubmods/b v1.0.2 h1:WeQE/T2YeWcU8tPGgTw5VXI7TC3kgXuFbJN1O+P9fAk=
+github.com/jrick/internalsubmods/b v1.0.2/go.mod h1:rZ1ISc4VRzWzTWPODDscNTxtMPc0ZNOyByZwMa0zdB8=
+github.com/jrick/internalsubmods/internal/a v1.0.0 h1:ldFfxddHv4dlOlFdO2oWH+nwRrrBskU6VpN8oKXJPk0=
+github.com/jrick/internalsubmods/internal/a v1.0.0/go.mod h1:Gzvc8KYKLoVS/e5pi2KrHAVk8gQLc0P55dMNXITiF9Q=
